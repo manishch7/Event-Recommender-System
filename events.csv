@@ -1,0 +1,501 @@
+eventId,eventName,startDate,category,city
+E1,Spectacular Literary Fair,2024-01-01,Literature,San Diego
+E2,Cultural Literary Fair,2024-01-02,Film,San Diego
+E3,Modern Music Festival,2024-01-03,Fashion,San Diego
+E4,Spectacular Music Festival,2024-01-04,Comedy,Seattle
+E5,Modern Tech Summit,2024-01-05,Technology,San Diego
+E6,International Startup Pitch,2024-01-06,Sport,Austin
+E7,Spectacular Music Festival,2024-01-07,Film,Miami
+E8,International Comedy Show,2024-01-08,Film,San Diego
+E9,Dynamic Food Carnival,2024-01-09,Fashion,San Jose
+E10,Dynamic Startup Pitch,2024-01-10,Music,San Antonio
+E11,Dynamic Tech Summit,2024-01-11,Literature,Atlanta
+E12,Grand Tech Summit,2024-01-12,Technology,Houston
+E13,Dynamic Food Carnival,2024-01-13,Art,Denver
+E14,Cultural Literary Fair,2024-01-14,Sport,Houston
+E15,International Literary Fair,2024-01-15,Food,Phoenix
+E16,Cultural Tech Summit,2024-01-16,Art,Houston
+E17,Grand Comedy Show,2024-01-17,Literature,Portland
+E18,International Music Festival,2024-01-18,Sport,Philadelphia
+E19,Spectacular Art Expo,2024-01-19,Film,Los Angeles
+E20,International Food Carnival,2024-01-20,Food,Austin
+E21,Dynamic Food Carnival,2024-01-21,Music,Miami
+E22,International Art Expo,2024-01-22,Technology,Phoenix
+E23,International Literary Fair,2024-01-23,Music,Philadelphia
+E24,Spectacular Startup Pitch,2024-01-24,Comedy,San Jose
+E25,Modern Art Expo,2024-01-25,Fashion,San Diego
+E26,Spectacular Tech Summit,2024-01-26,Sport,Miami
+E27,Spectacular Comedy Show,2024-01-27,Music,Chicago
+E28,Dynamic Startup Pitch,2024-01-28,Art,Seattle
+E29,Grand Comedy Show,2024-01-29,Fashion,Las Vegas
+E30,Cultural Startup Pitch,2024-01-30,Music,Atlanta
+E31,Cultural Startup Pitch,2024-01-31,Conference,New York
+E32,Annual Music Festival,2024-02-01,Comedy,San Jose
+E33,Annual Comedy Show,2024-02-02,Literature,San Jose
+E34,Cultural Literary Fair,2024-02-03,Technology,Los Angeles
+E35,Cultural Tech Summit,2024-02-04,Comedy,Dallas
+E36,Cultural Tech Summit,2024-02-05,Fashion,Denver
+E37,Annual Music Festival,2024-02-06,Conference,Las Vegas
+E38,Dynamic Startup Pitch,2024-02-07,Sport,Portland
+E39,Annual Startup Pitch,2024-02-08,Art,Seattle
+E40,Spectacular Comedy Show,2024-02-09,Technology,San Diego
+E41,International Art Expo,2024-02-10,Technology,Atlanta
+E42,Modern Comedy Show,2024-02-11,Comedy,Boston
+E43,Modern Food Carnival,2024-02-12,Fashion,San Jose
+E44,International Comedy Show,2024-02-13,Sport,Boston
+E45,International Food Carnival,2024-02-14,Film,Boston
+E46,Dynamic Food Carnival,2024-02-15,Conference,San Antonio
+E47,Cultural Startup Pitch,2024-02-16,Film,Denver
+E48,Dynamic Comedy Show,2024-02-17,Art,Atlanta
+E49,Spectacular Food Carnival,2024-02-18,Sport,Dallas
+E50,Cultural Tech Summit,2024-02-19,Sport,San Diego
+E51,Spectacular Art Expo,2024-02-20,Conference,Portland
+E52,Modern Startup Pitch,2024-02-21,Food,Denver
+E53,Spectacular Comedy Show,2024-02-22,Film,Las Vegas
+E54,International Art Expo,2024-02-23,Music,Dallas
+E55,International Startup Pitch,2024-02-24,Technology,Seattle
+E56,Grand Music Festival,2024-02-25,Food,Seattle
+E57,Modern Music Festival,2024-02-26,Music,Philadelphia
+E58,Spectacular Music Festival,2024-02-27,Fashion,San Antonio
+E59,Spectacular Music Festival,2024-02-28,Conference,Chicago
+E60,International Literary Fair,2024-02-29,Fashion,Las Vegas
+E61,International Art Expo,2024-03-01,Technology,Portland
+E62,Dynamic Comedy Show,2024-03-02,Literature,Las Vegas
+E63,Annual Startup Pitch,2024-03-03,Music,San Antonio
+E64,International Music Festival,2024-03-04,Food,Houston
+E65,Dynamic Literary Fair,2024-03-05,Music,San Diego
+E66,Modern Music Festival,2024-03-06,Music,Denver
+E67,Cultural Food Carnival,2024-03-07,Conference,Denver
+E68,Grand Music Festival,2024-03-08,Fashion,Atlanta
+E69,Annual Tech Summit,2024-03-09,Film,Atlanta
+E70,Grand Music Festival,2024-03-10,Literature,Phoenix
+E71,Grand Art Expo,2024-03-11,Conference,Philadelphia
+E72,Modern Food Carnival,2024-03-12,Art,Denver
+E73,Modern Art Expo,2024-03-13,Conference,Miami
+E74,Spectacular Tech Summit,2024-03-14,Technology,Houston
+E75,Cultural Tech Summit,2024-03-15,Literature,San Antonio
+E76,Annual Comedy Show,2024-03-16,Sport,San Diego
+E77,Modern Tech Summit,2024-03-17,Art,Denver
+E78,Cultural Music Festival,2024-03-18,Comedy,Philadelphia
+E79,International Startup Pitch,2024-03-19,Conference,Philadelphia
+E80,International Literary Fair,2024-03-20,Music,Chicago
+E81,Annual Food Carnival,2024-03-21,Film,Chicago
+E82,Grand Music Festival,2024-03-22,Sport,Denver
+E83,Spectacular Art Expo,2024-03-23,Conference,Los Angeles
+E84,Spectacular Startup Pitch,2024-03-24,Conference,Las Vegas
+E85,Cultural Literary Fair,2024-03-25,Food,Philadelphia
+E86,Grand Literary Fair,2024-03-26,Food,San Diego
+E87,Cultural Music Festival,2024-03-27,Sport,San Diego
+E88,Modern Tech Summit,2024-03-28,Fashion,Philadelphia
+E89,Annual Food Carnival,2024-03-29,Food,Miami
+E90,Spectacular Music Festival,2024-03-30,Music,Chicago
+E91,Dynamic Music Festival,2024-03-31,Art,San Jose
+E92,Cultural Food Carnival,2024-04-01,Comedy,Chicago
+E93,Grand Tech Summit,2024-04-02,Literature,Seattle
+E94,Modern Literary Fair,2024-04-03,Comedy,Atlanta
+E95,International Music Festival,2024-04-04,Comedy,Phoenix
+E96,Cultural Comedy Show,2024-04-05,Literature,Dallas
+E97,Spectacular Food Carnival,2024-04-06,Food,San Antonio
+E98,Annual Tech Summit,2024-04-07,Sport,Houston
+E99,Spectacular Art Expo,2024-04-08,Literature,Denver
+E100,Dynamic Tech Summit,2024-04-09,Technology,Denver
+E101,Modern Music Festival,2024-04-10,Fashion,San Jose
+E102,Modern Startup Pitch,2024-04-11,Art,Portland
+E103,Annual Literary Fair,2024-04-12,Film,Atlanta
+E104,International Literary Fair,2024-04-13,Food,Denver
+E105,Cultural Food Carnival,2024-04-14,Fashion,Atlanta
+E106,Spectacular Art Expo,2024-04-15,Literature,Houston
+E107,Annual Music Festival,2024-04-16,Technology,New York
+E108,Dynamic Tech Summit,2024-04-17,Film,New York
+E109,Dynamic Comedy Show,2024-04-18,Art,Boston
+E110,Annual Food Carnival,2024-04-19,Art,Denver
+E111,Cultural Startup Pitch,2024-04-20,Food,Atlanta
+E112,Cultural Literary Fair,2024-04-21,Literature,San Diego
+E113,International Music Festival,2024-04-22,Fashion,Portland
+E114,Spectacular Food Carnival,2024-04-23,Sport,Denver
+E115,International Tech Summit,2024-04-24,Fashion,Miami
+E116,Modern Comedy Show,2024-04-25,Fashion,San Diego
+E117,Modern Food Carnival,2024-04-26,Art,San Diego
+E118,Cultural Food Carnival,2024-04-27,Sport,Boston
+E119,Dynamic Comedy Show,2024-04-28,Sport,Denver
+E120,Annual Food Carnival,2024-04-29,Food,San Antonio
+E121,Cultural Food Carnival,2024-04-30,Film,Phoenix
+E122,Grand Tech Summit,2024-05-01,Conference,Atlanta
+E123,Cultural Music Festival,2024-05-02,Comedy,Las Vegas
+E124,Annual Comedy Show,2024-05-03,Comedy,Los Angeles
+E125,Dynamic Art Expo,2024-05-04,Art,Portland
+E126,Cultural Food Carnival,2024-05-05,Conference,Atlanta
+E127,Spectacular Literary Fair,2024-05-06,Film,San Antonio
+E128,International Comedy Show,2024-05-07,Conference,Denver
+E129,Cultural Literary Fair,2024-05-08,Food,Portland
+E130,Dynamic Art Expo,2024-05-09,Fashion,Miami
+E131,Dynamic Music Festival,2024-05-10,Art,Portland
+E132,Modern Comedy Show,2024-05-11,Sport,Denver
+E133,International Tech Summit,2024-05-12,Art,Austin
+E134,Annual Tech Summit,2024-05-13,Comedy,Las Vegas
+E135,Spectacular Comedy Show,2024-05-14,Film,Atlanta
+E136,Annual Food Carnival,2024-05-15,Conference,San Diego
+E137,Dynamic Food Carnival,2024-05-16,Film,Boston
+E138,Cultural Tech Summit,2024-05-17,Food,Dallas
+E139,Annual Food Carnival,2024-05-18,Art,San Jose
+E140,International Food Carnival,2024-05-19,Literature,Seattle
+E141,International Comedy Show,2024-05-20,Art,New York
+E142,Annual Food Carnival,2024-05-21,Sport,Dallas
+E143,Spectacular Food Carnival,2024-05-22,Art,Boston
+E144,Spectacular Music Festival,2024-05-23,Technology,New York
+E145,Modern Art Expo,2024-05-24,Food,Seattle
+E146,Modern Tech Summit,2024-05-25,Music,Chicago
+E147,Dynamic Literary Fair,2024-05-26,Food,Austin
+E148,International Tech Summit,2024-05-27,Conference,Los Angeles
+E149,Spectacular Comedy Show,2024-05-28,Music,Las Vegas
+E150,Annual Art Expo,2024-05-29,Conference,Dallas
+E151,Cultural Comedy Show,2024-05-30,Conference,Boston
+E152,Spectacular Literary Fair,2024-05-31,Sport,Seattle
+E153,Annual Music Festival,2024-06-01,Sport,New York
+E154,Spectacular Art Expo,2024-06-02,Fashion,Denver
+E155,Spectacular Food Carnival,2024-06-03,Comedy,Miami
+E156,Annual Comedy Show,2024-06-04,Fashion,San Diego
+E157,Modern Tech Summit,2024-06-05,Fashion,San Diego
+E158,Cultural Food Carnival,2024-06-06,Comedy,Seattle
+E159,Cultural Startup Pitch,2024-06-07,Literature,New York
+E160,Modern Startup Pitch,2024-06-08,Music,Austin
+E161,Grand Music Festival,2024-06-09,Film,San Diego
+E162,Grand Music Festival,2024-06-10,Fashion,San Jose
+E163,Spectacular Music Festival,2024-06-11,Art,Austin
+E164,Cultural Comedy Show,2024-06-12,Art,San Antonio
+E165,Grand Food Carnival,2024-06-13,Conference,Austin
+E166,Grand Literary Fair,2024-06-14,Comedy,Atlanta
+E167,Annual Literary Fair,2024-06-15,Conference,New York
+E168,International Art Expo,2024-06-16,Technology,San Diego
+E169,Modern Literary Fair,2024-06-17,Technology,Philadelphia
+E170,Spectacular Food Carnival,2024-06-18,Film,Portland
+E171,Spectacular Food Carnival,2024-06-19,Sport,Philadelphia
+E172,International Food Carnival,2024-06-20,Sport,Phoenix
+E173,International Music Festival,2024-06-21,Comedy,Denver
+E174,Spectacular Literary Fair,2024-06-22,Comedy,San Diego
+E175,Modern Art Expo,2024-06-23,Fashion,Dallas
+E176,Grand Startup Pitch,2024-06-24,Technology,Atlanta
+E177,Modern Comedy Show,2024-06-25,Fashion,Chicago
+E178,Annual Music Festival,2024-06-26,Sport,Austin
+E179,Grand Art Expo,2024-06-27,Music,Atlanta
+E180,Modern Startup Pitch,2024-06-28,Music,Los Angeles
+E181,International Music Festival,2024-06-29,Comedy,San Diego
+E182,International Music Festival,2024-06-30,Conference,San Antonio
+E183,International Tech Summit,2024-07-01,Sport,Atlanta
+E184,Cultural Tech Summit,2024-07-02,Music,Philadelphia
+E185,Grand Literary Fair,2024-07-03,Sport,Philadelphia
+E186,Cultural Food Carnival,2024-07-04,Food,Los Angeles
+E187,Spectacular Startup Pitch,2024-07-05,Art,Philadelphia
+E188,Modern Tech Summit,2024-07-06,Technology,Phoenix
+E189,Grand Music Festival,2024-07-07,Fashion,Houston
+E190,Annual Startup Pitch,2024-07-08,Sport,Atlanta
+E191,Modern Comedy Show,2024-07-09,Art,Austin
+E192,Dynamic Food Carnival,2024-07-10,Food,Houston
+E193,Annual Startup Pitch,2024-07-11,Fashion,Denver
+E194,Spectacular Music Festival,2024-07-12,Sport,Atlanta
+E195,Dynamic Art Expo,2024-07-13,Comedy,Dallas
+E196,International Music Festival,2024-07-14,Art,Houston
+E197,International Literary Fair,2024-07-15,Fashion,Miami
+E198,Modern Food Carnival,2024-07-16,Sport,Chicago
+E199,Annual Tech Summit,2024-07-17,Art,Miami
+E200,Dynamic Music Festival,2024-07-18,Food,San Diego
+E201,International Comedy Show,2024-07-19,Sport,New York
+E202,Grand Art Expo,2024-07-20,Sport,San Jose
+E203,Spectacular Literary Fair,2024-07-21,Sport,Portland
+E204,International Literary Fair,2024-07-22,Film,Las Vegas
+E205,Dynamic Literary Fair,2024-07-23,Comedy,San Diego
+E206,Dynamic Comedy Show,2024-07-24,Food,New York
+E207,Dynamic Comedy Show,2024-07-25,Fashion,Seattle
+E208,Dynamic Art Expo,2024-07-26,Film,San Diego
+E209,Dynamic Art Expo,2024-07-27,Conference,Las Vegas
+E210,Dynamic Literary Fair,2024-07-28,Film,Portland
+E211,Spectacular Comedy Show,2024-07-29,Technology,Houston
+E212,Grand Comedy Show,2024-07-30,Technology,Philadelphia
+E213,Dynamic Literary Fair,2024-07-31,Sport,Seattle
+E214,Modern Literary Fair,2024-08-01,Film,Dallas
+E215,Grand Food Carnival,2024-08-02,Conference,Boston
+E216,Annual Music Festival,2024-08-03,Film,Las Vegas
+E217,Grand Literary Fair,2024-08-04,Comedy,Seattle
+E218,International Tech Summit,2024-08-05,Comedy,Miami
+E219,Spectacular Food Carnival,2024-08-06,Conference,Denver
+E220,Modern Comedy Show,2024-08-07,Film,Los Angeles
+E221,Annual Food Carnival,2024-08-08,Art,Chicago
+E222,Grand Food Carnival,2024-08-09,Comedy,San Jose
+E223,Grand Art Expo,2024-08-10,Comedy,Dallas
+E224,Dynamic Music Festival,2024-08-11,Music,San Diego
+E225,Modern Tech Summit,2024-08-12,Film,San Jose
+E226,Cultural Music Festival,2024-08-13,Comedy,Chicago
+E227,International Tech Summit,2024-08-14,Food,Phoenix
+E228,Spectacular Startup Pitch,2024-08-15,Film,Chicago
+E229,Dynamic Comedy Show,2024-08-16,Technology,Las Vegas
+E230,International Art Expo,2024-08-17,Music,Atlanta
+E231,Dynamic Food Carnival,2024-08-18,Comedy,Boston
+E232,Modern Tech Summit,2024-08-19,Music,Chicago
+E233,Cultural Tech Summit,2024-08-20,Technology,Seattle
+E234,Cultural Art Expo,2024-08-21,Conference,Dallas
+E235,Annual Tech Summit,2024-08-22,Conference,Seattle
+E236,Grand Literary Fair,2024-08-23,Film,Boston
+E237,International Art Expo,2024-08-24,Technology,Los Angeles
+E238,Spectacular Literary Fair,2024-08-25,Literature,Portland
+E239,International Comedy Show,2024-08-26,Literature,Seattle
+E240,Modern Startup Pitch,2024-08-27,Film,Houston
+E241,Dynamic Music Festival,2024-08-28,Sport,Las Vegas
+E242,Grand Startup Pitch,2024-08-29,Music,Las Vegas
+E243,Annual Tech Summit,2024-08-30,Music,New York
+E244,Modern Art Expo,2024-08-31,Conference,Los Angeles
+E245,Dynamic Literary Fair,2024-09-01,Literature,Chicago
+E246,Dynamic Food Carnival,2024-09-02,Fashion,Atlanta
+E247,Annual Literary Fair,2024-09-03,Comedy,New York
+E248,International Food Carnival,2024-09-04,Comedy,Philadelphia
+E249,Cultural Food Carnival,2024-09-05,Comedy,Boston
+E250,Modern Art Expo,2024-09-06,Conference,Miami
+E251,Spectacular Tech Summit,2024-09-07,Technology,Boston
+E252,Cultural Art Expo,2024-09-08,Art,Miami
+E253,Modern Art Expo,2024-09-09,Literature,Phoenix
+E254,Spectacular Tech Summit,2024-09-10,Literature,Philadelphia
+E255,Dynamic Literary Fair,2024-09-11,Fashion,Atlanta
+E256,Grand Music Festival,2024-09-12,Music,Austin
+E257,Cultural Tech Summit,2024-09-13,Sport,Las Vegas
+E258,Modern Literary Fair,2024-09-14,Film,Seattle
+E259,Cultural Art Expo,2024-09-15,Music,Boston
+E260,Modern Music Festival,2024-09-16,Technology,Houston
+E261,Dynamic Startup Pitch,2024-09-17,Film,Portland
+E262,Grand Art Expo,2024-09-18,Literature,Chicago
+E263,Grand Music Festival,2024-09-19,Technology,San Diego
+E264,Annual Literary Fair,2024-09-20,Film,Chicago
+E265,Spectacular Music Festival,2024-09-21,Fashion,San Diego
+E266,Grand Food Carnival,2024-09-22,Fashion,Portland
+E267,Modern Literary Fair,2024-09-23,Food,San Jose
+E268,Dynamic Tech Summit,2024-09-24,Art,Atlanta
+E269,Grand Music Festival,2024-09-25,Fashion,San Diego
+E270,Spectacular Tech Summit,2024-09-26,Literature,Austin
+E271,International Comedy Show,2024-09-27,Sport,Phoenix
+E272,Annual Art Expo,2024-09-28,Comedy,Denver
+E273,Cultural Food Carnival,2024-09-29,Food,Phoenix
+E274,Cultural Food Carnival,2024-09-30,Comedy,Denver
+E275,Cultural Tech Summit,2024-10-01,Art,Philadelphia
+E276,International Food Carnival,2024-10-02,Film,Phoenix
+E277,Annual Art Expo,2024-10-03,Conference,Dallas
+E278,Annual Art Expo,2024-10-04,Fashion,Las Vegas
+E279,International Literary Fair,2024-10-05,Sport,Los Angeles
+E280,Modern Food Carnival,2024-10-06,Art,New York
+E281,Spectacular Art Expo,2024-10-07,Comedy,San Diego
+E282,Grand Tech Summit,2024-10-08,Food,Austin
+E283,Annual Music Festival,2024-10-09,Fashion,Seattle
+E284,Cultural Art Expo,2024-10-10,Literature,Seattle
+E285,Annual Music Festival,2024-10-11,Fashion,San Antonio
+E286,Dynamic Art Expo,2024-10-12,Food,Denver
+E287,Cultural Music Festival,2024-10-13,Food,San Diego
+E288,Cultural Food Carnival,2024-10-14,Conference,Dallas
+E289,Cultural Tech Summit,2024-10-15,Fashion,San Antonio
+E290,Grand Literary Fair,2024-10-16,Fashion,Boston
+E291,Grand Food Carnival,2024-10-17,Conference,Los Angeles
+E292,International Tech Summit,2024-10-18,Technology,Seattle
+E293,Grand Literary Fair,2024-10-19,Technology,New York
+E294,Modern Startup Pitch,2024-10-20,Film,San Diego
+E295,Spectacular Startup Pitch,2024-10-21,Technology,Phoenix
+E296,Spectacular Art Expo,2024-10-22,Music,Boston
+E297,Cultural Literary Fair,2024-10-23,Fashion,New York
+E298,Dynamic Food Carnival,2024-10-24,Sport,New York
+E299,Spectacular Art Expo,2024-10-25,Fashion,San Jose
+E300,Modern Startup Pitch,2024-10-26,Music,San Jose
+E301,International Food Carnival,2024-10-27,Music,Boston
+E302,Cultural Literary Fair,2024-10-28,Comedy,Atlanta
+E303,Annual Tech Summit,2024-10-29,Fashion,Philadelphia
+E304,Spectacular Comedy Show,2024-10-30,Art,Chicago
+E305,Modern Comedy Show,2024-10-31,Music,Denver
+E306,Annual Tech Summit,2024-11-01,Sport,Las Vegas
+E307,Modern Art Expo,2024-11-02,Conference,San Diego
+E308,Spectacular Tech Summit,2024-11-03,Film,Boston
+E309,Cultural Music Festival,2024-11-04,Comedy,Atlanta
+E310,Grand Startup Pitch,2024-11-05,Conference,Atlanta
+E311,Grand Startup Pitch,2024-11-06,Comedy,Denver
+E312,Cultural Food Carnival,2024-11-07,Sport,Atlanta
+E313,International Literary Fair,2024-11-08,Food,Philadelphia
+E314,International Food Carnival,2024-11-09,Fashion,Atlanta
+E315,Grand Art Expo,2024-11-10,Literature,Las Vegas
+E316,Annual Music Festival,2024-11-11,Art,Miami
+E317,Spectacular Literary Fair,2024-11-12,Conference,Denver
+E318,Modern Startup Pitch,2024-11-13,Fashion,Philadelphia
+E319,Cultural Literary Fair,2024-11-14,Art,Chicago
+E320,Spectacular Comedy Show,2024-11-15,Food,Miami
+E321,Cultural Comedy Show,2024-11-16,Literature,Miami
+E322,Annual Music Festival,2024-11-17,Art,Boston
+E323,Cultural Music Festival,2024-11-18,Art,San Diego
+E324,Modern Comedy Show,2024-11-19,Conference,Boston
+E325,Dynamic Literary Fair,2024-11-20,Technology,Denver
+E326,Annual Art Expo,2024-11-21,Literature,Atlanta
+E327,Spectacular Startup Pitch,2024-11-22,Fashion,Chicago
+E328,Dynamic Literary Fair,2024-11-23,Food,Philadelphia
+E329,Cultural Food Carnival,2024-11-24,Literature,Phoenix
+E330,Grand Tech Summit,2024-11-25,Sport,Atlanta
+E331,Dynamic Startup Pitch,2024-11-26,Technology,Los Angeles
+E332,Modern Food Carnival,2024-11-27,Sport,Boston
+E333,Modern Comedy Show,2024-11-28,Food,Phoenix
+E334,Grand Startup Pitch,2024-11-29,Conference,Philadelphia
+E335,Modern Startup Pitch,2024-11-30,Conference,Philadelphia
+E336,Annual Literary Fair,2024-12-01,Food,Portland
+E337,Cultural Startup Pitch,2024-12-02,Comedy,Portland
+E338,International Art Expo,2024-12-03,Food,Houston
+E339,Dynamic Comedy Show,2024-12-04,Technology,Atlanta
+E340,Cultural Music Festival,2024-12-05,Music,Miami
+E341,Grand Tech Summit,2024-12-06,Conference,Miami
+E342,Dynamic Music Festival,2024-12-07,Film,Denver
+E343,Dynamic Tech Summit,2024-12-08,Technology,San Antonio
+E344,Spectacular Comedy Show,2024-12-09,Technology,Seattle
+E345,Modern Startup Pitch,2024-12-10,Technology,Boston
+E346,Dynamic Literary Fair,2024-12-11,Art,Austin
+E347,Dynamic Literary Fair,2024-12-12,Technology,Boston
+E348,Annual Tech Summit,2024-12-13,Conference,Seattle
+E349,Spectacular Startup Pitch,2024-12-14,Music,Chicago
+E350,International Art Expo,2024-12-15,Music,Atlanta
+E351,Grand Art Expo,2024-12-16,Technology,Chicago
+E352,Spectacular Comedy Show,2024-12-17,Sport,Houston
+E353,Annual Music Festival,2024-12-18,Conference,Chicago
+E354,Grand Art Expo,2024-12-19,Conference,Las Vegas
+E355,Dynamic Music Festival,2024-12-20,Literature,Seattle
+E356,Annual Food Carnival,2024-12-21,Fashion,San Diego
+E357,Modern Startup Pitch,2024-12-22,Comedy,Atlanta
+E358,Annual Tech Summit,2024-12-23,Comedy,San Antonio
+E359,Cultural Literary Fair,2024-12-24,Sport,Austin
+E360,Dynamic Music Festival,2024-12-25,Comedy,Portland
+E361,Annual Startup Pitch,2024-12-26,Literature,New York
+E362,Annual Tech Summit,2024-12-27,Food,Chicago
+E363,Modern Music Festival,2024-12-28,Comedy,Houston
+E364,Annual Startup Pitch,2024-12-29,Conference,Denver
+E365,International Startup Pitch,2024-12-30,Food,Philadelphia
+E366,Spectacular Tech Summit,2024-12-31,Comedy,Miami
+E367,Dynamic Music Festival,2025-01-01,Conference,Phoenix
+E368,Spectacular Startup Pitch,2025-01-02,Conference,Las Vegas
+E369,International Startup Pitch,2025-01-03,Technology,Boston
+E370,Cultural Comedy Show,2025-01-04,Music,Boston
+E371,Annual Music Festival,2025-01-05,Sport,Houston
+E372,International Tech Summit,2025-01-06,Literature,San Diego
+E373,Annual Literary Fair,2025-01-07,Art,Las Vegas
+E374,Annual Literary Fair,2025-01-08,Fashion,Las Vegas
+E375,Dynamic Comedy Show,2025-01-09,Comedy,Houston
+E376,Modern Food Carnival,2025-01-10,Comedy,Denver
+E377,Cultural Tech Summit,2025-01-11,Food,Denver
+E378,Annual Startup Pitch,2025-01-12,Food,Los Angeles
+E379,Annual Food Carnival,2025-01-13,Fashion,Chicago
+E380,Spectacular Literary Fair,2025-01-14,Comedy,San Diego
+E381,Spectacular Music Festival,2025-01-15,Film,Boston
+E382,Annual Tech Summit,2025-01-16,Literature,Austin
+E383,International Startup Pitch,2025-01-17,Comedy,Dallas
+E384,Modern Food Carnival,2025-01-18,Music,San Antonio
+E385,International Music Festival,2025-01-19,Fashion,Denver
+E386,Grand Tech Summit,2025-01-20,Film,Los Angeles
+E387,Modern Tech Summit,2025-01-21,Literature,San Diego
+E388,Dynamic Art Expo,2025-01-22,Comedy,San Antonio
+E389,Annual Comedy Show,2025-01-23,Art,Seattle
+E390,International Literary Fair,2025-01-24,Technology,San Antonio
+E391,Spectacular Food Carnival,2025-01-25,Music,San Jose
+E392,Grand Literary Fair,2025-01-26,Art,Las Vegas
+E393,Grand Comedy Show,2025-01-27,Food,Chicago
+E394,Annual Music Festival,2025-01-28,Food,San Jose
+E395,Annual Tech Summit,2025-01-29,Comedy,Philadelphia
+E396,Cultural Music Festival,2025-01-30,Food,Portland
+E397,Cultural Tech Summit,2025-01-31,Music,Portland
+E398,Dynamic Literary Fair,2025-02-01,Literature,Phoenix
+E399,Dynamic Tech Summit,2025-02-02,Conference,San Antonio
+E400,Grand Food Carnival,2025-02-03,Sport,Los Angeles
+E401,Grand Tech Summit,2025-02-04,Fashion,Austin
+E402,International Music Festival,2025-02-05,Literature,Denver
+E403,Modern Startup Pitch,2025-02-06,Conference,Phoenix
+E404,Modern Food Carnival,2025-02-07,Film,Philadelphia
+E405,Spectacular Art Expo,2025-02-08,Music,Miami
+E406,Dynamic Tech Summit,2025-02-09,Art,Seattle
+E407,Annual Literary Fair,2025-02-10,Conference,Houston
+E408,Spectacular Comedy Show,2025-02-11,Music,Philadelphia
+E409,Spectacular Tech Summit,2025-02-12,Technology,San Jose
+E410,International Startup Pitch,2025-02-13,Art,Portland
+E411,Grand Tech Summit,2025-02-14,Food,Boston
+E412,International Food Carnival,2025-02-15,Food,San Diego
+E413,Modern Music Festival,2025-02-16,Art,Dallas
+E414,Annual Food Carnival,2025-02-17,Film,Phoenix
+E415,Dynamic Literary Fair,2025-02-18,Film,San Jose
+E416,Grand Literary Fair,2025-02-19,Film,Philadelphia
+E417,Grand Food Carnival,2025-02-20,Conference,Las Vegas
+E418,Annual Comedy Show,2025-02-21,Fashion,Chicago
+E419,Annual Literary Fair,2025-02-22,Conference,San Jose
+E420,Annual Food Carnival,2025-02-23,Comedy,Austin
+E421,Dynamic Literary Fair,2025-02-24,Sport,Austin
+E422,Dynamic Tech Summit,2025-02-25,Art,Atlanta
+E423,Annual Comedy Show,2025-02-26,Literature,Houston
+E424,International Music Festival,2025-02-27,Sport,Houston
+E425,Grand Comedy Show,2025-02-28,Technology,Atlanta
+E426,Cultural Tech Summit,2025-03-01,Conference,Dallas
+E427,International Comedy Show,2025-03-02,Conference,Phoenix
+E428,Spectacular Startup Pitch,2025-03-03,Music,Philadelphia
+E429,Modern Music Festival,2025-03-04,Sport,Chicago
+E430,Cultural Food Carnival,2025-03-05,Music,New York
+E431,Dynamic Startup Pitch,2025-03-06,Literature,Las Vegas
+E432,Spectacular Startup Pitch,2025-03-07,Music,Austin
+E433,Dynamic Startup Pitch,2025-03-08,Sport,Denver
+E434,Grand Comedy Show,2025-03-09,Art,San Jose
+E435,Cultural Food Carnival,2025-03-10,Technology,Chicago
+E436,Cultural Art Expo,2025-03-11,Conference,Dallas
+E437,Spectacular Art Expo,2025-03-12,Literature,Seattle
+E438,Annual Music Festival,2025-03-13,Conference,Miami
+E439,International Comedy Show,2025-03-14,Comedy,New York
+E440,Cultural Art Expo,2025-03-15,Technology,Portland
+E441,Annual Art Expo,2025-03-16,Fashion,Atlanta
+E442,Dynamic Art Expo,2025-03-17,Music,Dallas
+E443,Cultural Food Carnival,2025-03-18,Food,Dallas
+E444,Dynamic Music Festival,2025-03-19,Sport,San Jose
+E445,Cultural Art Expo,2025-03-20,Conference,Boston
+E446,International Food Carnival,2025-03-21,Music,Phoenix
+E447,Annual Music Festival,2025-03-22,Literature,Boston
+E448,Grand Music Festival,2025-03-23,Conference,Los Angeles
+E449,Modern Startup Pitch,2025-03-24,Fashion,Denver
+E450,Grand Tech Summit,2025-03-25,Technology,Las Vegas
+E451,International Art Expo,2025-03-26,Technology,Boston
+E452,Annual Tech Summit,2025-03-27,Conference,San Jose
+E453,International Food Carnival,2025-03-28,Literature,Miami
+E454,International Comedy Show,2025-03-29,Technology,San Jose
+E455,Dynamic Art Expo,2025-03-30,Technology,Miami
+E456,Grand Startup Pitch,2025-03-31,Fashion,Dallas
+E457,Spectacular Tech Summit,2025-04-01,Sport,Miami
+E458,Cultural Startup Pitch,2025-04-02,Literature,Chicago
+E459,Dynamic Food Carnival,2025-04-03,Literature,Las Vegas
+E460,Grand Music Festival,2025-04-04,Art,Los Angeles
+E461,Dynamic Food Carnival,2025-04-05,Art,San Jose
+E462,Modern Tech Summit,2025-04-06,Technology,Chicago
+E463,Modern Tech Summit,2025-04-07,Food,Austin
+E464,Spectacular Art Expo,2025-04-08,Art,Austin
+E465,Dynamic Literary Fair,2025-04-09,Technology,Denver
+E466,International Comedy Show,2025-04-10,Film,San Antonio
+E467,Grand Comedy Show,2025-04-11,Comedy,Atlanta
+E468,Spectacular Tech Summit,2025-04-12,Comedy,Los Angeles
+E469,International Music Festival,2025-04-13,Literature,Seattle
+E470,Annual Comedy Show,2025-04-14,Food,San Jose
+E471,Annual Tech Summit,2025-04-15,Fashion,Portland
+E472,Modern Tech Summit,2025-04-16,Sport,Austin
+E473,Modern Art Expo,2025-04-17,Art,Las Vegas
+E474,Cultural Food Carnival,2025-04-18,Film,Atlanta
+E475,Annual Tech Summit,2025-04-19,Technology,Portland
+E476,International Music Festival,2025-04-20,Food,Chicago
+E477,International Literary Fair,2025-04-21,Literature,Las Vegas
+E478,Spectacular Tech Summit,2025-04-22,Art,Philadelphia
+E479,Dynamic Tech Summit,2025-04-23,Food,Seattle
+E480,Cultural Tech Summit,2025-04-24,Art,Austin
+E481,Dynamic Food Carnival,2025-04-25,Sport,Boston
+E482,International Comedy Show,2025-04-26,Sport,Boston
+E483,Annual Literary Fair,2025-04-27,Fashion,Las Vegas
+E484,Modern Music Festival,2025-04-28,Comedy,San Jose
+E485,Annual Literary Fair,2025-04-29,Music,Seattle
+E486,Modern Startup Pitch,2025-04-30,Music,Denver
+E487,Annual Music Festival,2025-05-01,Art,Houston
+E488,Modern Tech Summit,2025-05-02,Fashion,San Antonio
+E489,Annual Art Expo,2025-05-03,Music,Los Angeles
+E490,Modern Music Festival,2025-05-04,Literature,Boston
+E491,Cultural Comedy Show,2025-05-05,Music,San Diego
+E492,International Comedy Show,2025-05-06,Conference,San Antonio
+E493,Dynamic Music Festival,2025-05-07,Technology,Boston
+E494,International Art Expo,2025-05-08,Fashion,Miami
+E495,Grand Comedy Show,2025-05-09,Literature,San Diego
+E496,International Tech Summit,2025-05-10,Food,Seattle
+E497,Modern Tech Summit,2025-05-11,Literature,Denver
+E498,Cultural Startup Pitch,2025-05-12,Comedy,Austin
+E499,Annual Food Carnival,2025-05-13,Food,Atlanta
+E500,Spectacular Startup Pitch,2025-05-14,Film,Atlanta
